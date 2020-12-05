@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: $font-family-secondary;
+    font-weight: 100;
+    font-size: 1.5em;
+}
+.container {
+    padding: 0 200px;
+}
+span {
+    height: 2px;
+    width: 100%;
+    background-color: black;
+    display: block;
+}
+#presentation, #prestation, #location, #contact {
+    padding-top: 10vh;
+}
+

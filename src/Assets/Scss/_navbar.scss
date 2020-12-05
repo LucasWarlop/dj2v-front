@@ -1,0 +1,48 @@
+nav {
+    position: absolute;
+    top: 94.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    background-color: black;
+
+    ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+
+        li {
+            margin: 0px 5%;
+
+            a {
+                font-size: 25px;
+                color: white;
+                text-decoration: none;
+                height: 100%;
+                line-height: 2;
+                width: 100%;
+                
+            }
+            a::after, a::before {
+                content: "";
+                display: block;
+                width: 100%;
+                height: 3px;
+                background-color: white;
+                transform: scale(0);
+                transition: transform 0.2s ease-in-out;
+            }
+
+        }
+    }
+
+}
+@media screen and (max-width: 900px){
+        ul li a{font-size: 1em !important;}
+}
+
+
+
+nav li a:hover::after, a:hover::before {
+    transform: scale(1);
+}
