@@ -11,7 +11,7 @@ import tech from '../Assets/images/illustrations/Spotify/tech.jpg';
 export default class Decouvrir extends Component {
     render() {
         return (
-                <section className="spotify">
+                <section id="decouvrir" className="spotify">
                     <h2 className="container">Découvrez nos playlist</h2>
                     <article>
                         <div>

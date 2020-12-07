@@ -5,6 +5,7 @@ import Prestation from '../Components/Prestation';
 import Contact from '../Components/Contact';
 import Location from '../Components/Location';
 import Decouvrir from '../Components/Decouvrir';
+import Galerie from '../Components/Galerie';
 
 export default class Accueil extends Component {
     render() {
@@ -14,6 +15,7 @@ export default class Accueil extends Component {
                 <Decouvrir />
                 <Prestation />
                 <Location />
+                <Galerie />
                 <Contact />
             </main>
         )

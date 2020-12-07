@@ -11,7 +11,7 @@ export default class Prestation extends Component {
                 <span></span>
                 <h2>Nos prestations</h2>
                 <article className="prestation">
-                <div className="card">
+                    <div className="card">
                         <div className="card-img">
                             <img  src={djcover}/>
                         </div>
