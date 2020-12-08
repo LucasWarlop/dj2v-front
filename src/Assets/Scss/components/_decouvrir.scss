@@ -1,30 +1,10 @@
-.introduction {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    img {
-        padding-top: 30px;
-        width: 400px;
-    }
-    div {
-        text-align: justify;
-    }
-    
-}
-.right {
-    text-align: right;
-}
-.left {
-    text-align: left;
-}
-
 .spotify {
     article {
         display: flex;
         justify-content: space-evenly;
         flex-wrap: wrap;
         div{
-            width: 150px;
+            width: 125px;
             padding: 10px;
         }
         img {
