@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dj2v-front/static/css/main.b7a8f65c.chunk.css",
+    "main.js": "/dj2v-front/static/js/main.a9eccf82.chunk.js",
+    "main.js.map": "/dj2v-front/static/js/main.a9eccf82.chunk.js.map",
+    "runtime-main.js": "/dj2v-front/static/js/runtime-main.fbeab637.js",
+    "runtime-main.js.map": "/dj2v-front/static/js/runtime-main.fbeab637.js.map",
+    "static/css/2.62cc171c.chunk.css": "/dj2v-front/static/css/2.62cc171c.chunk.css",
+    "static/js/2.6964d074.chunk.js": "/dj2v-front/static/js/2.6964d074.chunk.js",
+    "static/js/2.6964d074.chunk.js.map": "/dj2v-front/static/js/2.6964d074.chunk.js.map",
+    "index.html": "/dj2v-front/index.html",
+    "static/css/2.62cc171c.chunk.css.map": "/dj2v-front/static/css/2.62cc171c.chunk.css.map",
+    "static/css/main.b7a8f65c.chunk.css.map": "/dj2v-front/static/css/main.b7a8f65c.chunk.css.map",
+    "static/js/2.6964d074.chunk.js.LICENSE.txt": "/dj2v-front/static/js/2.6964d074.chunk.js.LICENSE.txt",
+    "static/media/CGV.ce2d8a43.pdf": "/dj2v-front/static/media/CGV.ce2d8a43.pdf",
+    "static/media/annee80.699c8fc2.jpg": "/dj2v-front/static/media/annee80.699c8fc2.jpg",
+    "static/media/coverevent.95294949.jpg": "/dj2v-front/static/media/coverevent.95294949.jpg",
+    "static/media/disco-house.e1812d86.jpg": "/dj2v-front/static/media/disco-house.e1812d86.jpg",
+    "static/media/disco.e162708f.jpg": "/dj2v-front/static/media/disco.e162708f.jpg",
+    "static/media/electro-chill.19bc66f6.jpg": "/dj2v-front/static/media/electro-chill.19bc66f6.jpg",
+    "static/media/event9.ca5eb917.jpg": "/dj2v-front/static/media/event9.ca5eb917.jpg",
+    "static/media/house.8cb13c09.jpg": "/dj2v-front/static/media/house.8cb13c09.jpg",
+    "static/media/mentionslegales.fd335290.pdf": "/dj2v-front/static/media/mentionslegales.fd335290.pdf",
+    "static/media/photo.6ff5100a.jpg": "/dj2v-front/static/media/photo.6ff5100a.jpg",
+    "static/media/tech-house.12dd899f.jpg": "/dj2v-front/static/media/tech-house.12dd899f.jpg",
+    "static/media/tech.fe4966ca.jpg": "/dj2v-front/static/media/tech.fe4966ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbeab637.js",
+    "static/css/2.62cc171c.chunk.css",
+    "static/js/2.6964d074.chunk.js",
+    "static/css/main.b7a8f65c.chunk.css",
+    "static/js/main.a9eccf82.chunk.js"
+  ]
+}
