@@ -36,7 +36,7 @@ export default class Decouvrir extends Component {
                             
                         </div>
                         <div>
-                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/6YeiIgUY3C586bDWruEQKA?si=g4HBVOWGR3uuznsMkFT3mw"><img alt="spotify cover" src={annee80} /></a>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/6YeiIgUY3C586bDWruEQKA?si=FW3bUCwVS6miap6MLV30Kw"><img alt="spotify cover" src={annee80} /></a>
                         </div>
                     </article> 
                 </section>

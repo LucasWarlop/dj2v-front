@@ -503,13 +503,33 @@ nav li a:hover::after, a:hover::before {
 }
 
 .footer-flex {
+  margin-top: 20px;
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
 }
 
 .footer-flex div {
-  width: 50%;
+  width: 80%;
+}
+
+.footer-flex a {
+  text-decoration: none;
+  color: black;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+
+.footer-flex a:hover {
+  color: white;
+  background-color: black;
+}
+
+.footer-flex h2 {
+  margin: 0;
+}
+
+.footer-flex .informations iframe {
+  height: 200px;
 }
 
 ul {
@@ -524,6 +544,7 @@ li {
 }
 
 .flex {
+  width: 40%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -621,20 +642,12 @@ li {
   margin-bottom: 50px;
 }
 
-.each-slide > div {
+.each-slide {
   display: flex;
+  justify-content: center;
   align-items: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   width: 100%;
   height: 500px;
-}
-
-.each-slide span {
-  padding: 20px;
-  font-size: 20px;
-  background: #efefef;
-  text-align: center;
 }
 
 .spotify article {

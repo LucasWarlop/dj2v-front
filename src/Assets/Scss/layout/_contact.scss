@@ -1,11 +1,30 @@
 
     .footer-flex {
+        margin-top: 20px;
         display: flex;
-        flex-wrap: wrap;
         justify-content: space-between;
         div {
-            width: 50%;
+            width: 80%;
         }
+        a {
+            text-decoration: none;
+            color: black;
+            padding: 5px 10px;
+            border-radius: 10px;
+            &:hover {
+                color: white;
+                background-color: black;
+            }
+        }
+        h2 {
+            margin: 0;
+        }
+        .informations {
+            iframe {
+                height: 200px;
+            }
+        }
+
     }
     ul {
         margin-right: 10px;
@@ -14,9 +33,11 @@
     li {
         padding: 5px 0px;
         list-style-type: none;
-        font-size: 1em;      
+        font-size: 1em;
+    
     }
     .flex {
+        width: 40%;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
