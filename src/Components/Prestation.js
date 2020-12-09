@@ -19,7 +19,7 @@ export default class Prestation extends Component {
                             <h3 className="card-title">DJ</h3>
                             <p className="card-text">Faites de votre évènement un 
                             moment unique grâce à l’un de nos DJ.</p>
-                            <a className="btn" href="mailto:contact@dj2v.fr">Demander un Devis</a>
+                            <a className="btn" href="mailto:contact@dj2v.fr?subject=dj2versailles.fr : Demande de devis DJ">Demander un Devis</a>
                         </div>
                     </div>
                     <div className="card">
@@ -30,7 +30,7 @@ export default class Prestation extends Component {
                             <h3 className="card-title">Photographe</h3>
                             <p className="card-text">La branche photographe 
                                 afin de pouvoir capturer au mieux vos évènements. </p>
-                            <a className="btn" href="mailto:contact@dj2v.fr">Demander un Devis</a>
+                            <a className="btn" href="mailto:contact@dj2v.fr?subject=dj2versailles.fr : Demande de devis photographe">Demander un Devis</a>
                         </div>
                     </div>
                     <div className="card">
@@ -41,7 +41,7 @@ export default class Prestation extends Component {
                             <h3 className="card-title">Evénement</h3>
                             <p className="card-text">DJ2V propose l’accompagnement et l’aide à 
                             l’organisation de vos évènement. </p>
-                            <a className="btn" href="mailto:contact@dj2v.fr">Demander un Devis</a>
+                            <a className="btn" href="mailto:contact@dj2v.fr?subject=dj2versailles.fr : Demande de devis évènement">Demander un Devis</a>
                         </div>
                     </div>
                 </article>
