@@ -502,16 +502,31 @@ nav li a:hover::after, a:hover::before {
   transform: scale(1);
 }
 
-.contact ul {
+.footer-flex {
   display: flex;
-  justify-content: space-evenly;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
-.contact ul li {
+.footer-flex div {
+  width: 50%;
+}
+
+ul {
+  margin-right: 10px;
+  padding: 0;
+}
+
+li {
+  padding: 5px 0px;
   list-style-type: none;
-  font-size: 2em;
-  padding: 20px 20px;
+  font-size: 1em;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .prestation {
@@ -602,8 +617,24 @@ nav li a:hover::after, a:hover::before {
   text-align: left;
 }
 
-.carousel {
+.galerie {
+  margin-bottom: 50px;
+}
+
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
   height: 500px;
+}
+
+.each-slide span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
 }
 
 .spotify article {

@@ -12,7 +12,7 @@ export default class Location extends Component {
                         Nous proposons à la location plusieurs package en fonction de ce que vous souhaitez (Nombre de convives, éclairage souhaité, etc ….)
                         Envoyez nous un email à contact@dj2v.fr, vous obtiendrez rapidement un devis.</p>
                 </div>
-                <a href="/location">En savoir plus</a>
+                <a href="mailto:contact@dj2v.fr">Demander un devis</a>
             </section>
         )
     }

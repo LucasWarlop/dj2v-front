@@ -16,27 +16,27 @@ export default class Decouvrir extends Component {
                     <h2>Découvrez nos playlist</h2>
                     <article>
                         <div>
-                            <a target="_blank" href="https://open.spotify.com/playlist/3egLY79Diiw4lgwUs5Ja8j?si=2xpWhc98RXyF7MsyR-UMcw"><img src={house} /></a>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/3egLY79Diiw4lgwUs5Ja8j?si=2xpWhc98RXyF7MsyR-UMcw"><img alt="spotify cover" src={house} /></a>
                         </div>
-                        <div> 
-                            <a target="_blank" href="https://open.spotify.com/playlist/7DRG9nGCe82UytGJq3sFeX?si=mMgHZiHCRyy-kklT4Zxhdg"><img src={disco} /></a>
+                        <div>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/7DRG9nGCe82UytGJq3sFeX?si=mMgHZiHCRyy-kklT4Zxhdg"><img alt="spotify cover" src={disco} /></a>
                         </div>
                         <div>
                             
-                            <a target="_blank" href="https://open.spotify.com/playlist/5i4xajVWbEJnIkAWpMXRmz?si=nBgqLz78RXKoMhB5He2ncg"><img src={discohouse} /></a>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/5i4xajVWbEJnIkAWpMXRmz?si=nBgqLz78RXKoMhB5He2ncg"><img alt="spotify cover" src={discohouse} /></a>
                         </div>
                         <div>
-                            <a target="_blank" href="https://open.spotify.com/playlist/07AbcDxETD7RFE6E41fADq?si=RlYBwcWIQY-79vusbgZ2UA"><img src={tech} /></a> 
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/07AbcDxETD7RFE6E41fADq?si=RlYBwcWIQY-79vusbgZ2UA"><img alt="spotify cover" src={tech} /></a> 
                         </div>
                         <div>
-                            <a target="_blank" href="https://open.spotify.com/playlist/3blA7Jw45FmFqgyagMTTdi?si=t9FQEa6ARIOWcH3EFhPkuA"><img src={techhouse} /></a> 
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/3blA7Jw45FmFqgyagMTTdi?si=t9FQEa6ARIOWcH3EFhPkuA"><img alt="spotify cover" src={techhouse} /></a> 
                         </div>
                         <div>
-                            <a target="_blank" href="https://open.spotify.com/playlist/4q2YFnStqlBbmBOa8fDisG?si=SiGzmZ6XQyiXQIfgUfs-rA"><img src={electrochill} /></a>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/4q2YFnStqlBbmBOa8fDisG?si=SiGzmZ6XQyiXQIfgUfs-rA"><img alt="spotify cover" src={electrochill} /></a>
                             
                         </div>
                         <div>
-                            <a target="_blank" href="https://open.spotify.com/playlist/6YeiIgUY3C586bDWruEQKA?si=g4HBVOWGR3uuznsMkFT3mw"><img src={annee80} /></a>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/playlist/6YeiIgUY3C586bDWruEQKA?si=g4HBVOWGR3uuznsMkFT3mw"><img alt="spotify cover" src={annee80} /></a>
                         </div>
                     </article> 
                 </section>
