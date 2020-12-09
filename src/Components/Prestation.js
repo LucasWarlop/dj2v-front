@@ -13,7 +13,7 @@ export default class Prestation extends Component {
                 <article className="prestation">
                     <div className="card">
                         <div className="card-img">
-                            <img  src={djcover}/>
+                            <img  src={djcover} alt="djcover"/>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">DJ</h3>
@@ -24,7 +24,7 @@ export default class Prestation extends Component {
                     </div>
                     <div className="card">
                     <div className="card-img">
-                            <img  src={photocover}/>
+                            <img  src={photocover} alt="photocover"/>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Photographe</h3>
@@ -35,7 +35,7 @@ export default class Prestation extends Component {
                     </div>
                     <div className="card">
                         <div className="card-img">
-                            <img  src={eventcover}/>
+                            <img  src={eventcover} alt="eventcover"/>
                         </div>
                         <div className="card-body">
                             <h3 className="card-title">Evénement</h3>

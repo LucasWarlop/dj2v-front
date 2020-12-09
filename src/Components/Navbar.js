@@ -1,6 +1,4 @@
 import React, { Component} from 'react';
-import logo from '../Assets/images/logos/black.png';
-import {NavLink} from 'react-router-dom';
 
 export default class Navbar extends Component {
     render() {

@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import presentation from '../Assets/images/illustrations/presentation.jpg';
-import dj from '../Assets/images/illustrations/dj.jpg'
 
 
 export default class Presentation extends Component {

@@ -10,6 +10,17 @@ body {
 .container {
     padding: 0 200px;
 }
+@media screen and (max-width: 750px){
+    .container {
+        padding: 0 25px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .container {
+        padding: 0 100px;
+    }
+}
+
 span {
     height: 2px;
     width: 100%;
